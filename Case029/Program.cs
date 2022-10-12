@@ -41,7 +41,7 @@ void PrintArray(int[] collection)
 
 
 
-//второй вариант без Trim
+//второй вариант с Trim, исправлено:)
 
 // int min = InputValue("Введите минимальное значение");
 // int max = InputValue("Введите максимальное значение");
